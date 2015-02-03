@@ -1,0 +1,4 @@
+C:\Users\Gilberth Molina\Documents\Visual Studio 2010\Projects\ConcesionarioMotocicletas\ConcesionarioMotocicletasC\Objetos\bin\Debug\Objetos.dll
+C:\Users\Gilberth Molina\Documents\Visual Studio 2010\Projects\ConcesionarioMotocicletas\ConcesionarioMotocicletasC\Objetos\bin\Debug\Objetos.pdb
+C:\Users\Gilberth Molina\Documents\Visual Studio 2010\Projects\ConcesionarioMotocicletas\ConcesionarioMotocicletasC\Objetos\obj\Debug\Objetos.dll
+C:\Users\Gilberth Molina\Documents\Visual Studio 2010\Projects\ConcesionarioMotocicletas\ConcesionarioMotocicletasC\Objetos\obj\Debug\Objetos.pdb

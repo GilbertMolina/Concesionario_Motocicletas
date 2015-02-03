@@ -1,0 +1,7 @@
+C:\Users\Gilberth Molina\Documents\Visual Studio 2010\Projects\ConcesionarioMotocicletas\ConcesionarioMotocicletasC\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Gilberth Molina\Documents\Visual Studio 2010\Projects\ConcesionarioMotocicletas\ConcesionarioMotocicletasC\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Gilberth Molina\Documents\Visual Studio 2010\Projects\ConcesionarioMotocicletas\ConcesionarioMotocicletasC\CapaAccesoDatos\bin\Debug\Objetos.dll
+C:\Users\Gilberth Molina\Documents\Visual Studio 2010\Projects\ConcesionarioMotocicletas\ConcesionarioMotocicletasC\CapaAccesoDatos\bin\Debug\Objetos.pdb
+C:\Users\Gilberth Molina\Documents\Visual Studio 2010\Projects\ConcesionarioMotocicletas\ConcesionarioMotocicletasC\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Gilberth Molina\Documents\Visual Studio 2010\Projects\ConcesionarioMotocicletas\ConcesionarioMotocicletasC\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Gilberth Molina\Documents\Visual Studio 2010\Projects\ConcesionarioMotocicletas\ConcesionarioMotocicletasC\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
