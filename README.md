@@ -2,7 +2,7 @@
 
 Sistema que maneja la lógica de negocio de un Concesionario de Motocicletas.
 
-Maneja entidades como: Clientes, Departamentos, Empleados, Proveedores, Repuestos, Servicios y Vehículos nuevos como usados.
+Maneja entidades como: Clientes, Departamentos, Empleados, Proveedores, Repuestos, Servicios y Vehículos, tanto nuevos como usados.
 Y procesos como: Adquisiciones del concesionario por parte de Proveedores, Facturas a Clientes e Inventario.
 
 Lenguaje de Programación: C#.
